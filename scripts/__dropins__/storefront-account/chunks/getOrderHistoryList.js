@@ -28,7 +28,6 @@ import{t as L,f as H,a as Y}from"./removeCustomerAddress.js";import{c as j}from"
           total_pages
           current_page
         }
-        date_of_first_order
         total_count
         items {
           token

@@ -36,19 +36,7 @@ const e=`
       value
       currency
     }
-    grand_total_excl_tax {
-      value
-      currency
-    }
     total_giftcard {
-      currency
-      value
-    }
-    subtotal_excl_tax {
-      currency
-      value
-    }
-    subtotal_incl_tax {
       currency
       value
     }
