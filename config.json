@@ -1,0 +1,74 @@
+{
+  "public": {
+    "default": {
+      "commerce-core-endpoint": "https://integration-5ojmyuq-5spgfttbivghc.us-a1.magentosite.cloud/graphql",
+      "commerce-endpoint": "https://integration-5ojmyuq-5spgfttbivghc.us-a1.magentosite.cloud/graphql",
+      "headers": {
+        "all": {
+          "Store": "en_us"
+        },
+        "cs": {
+          "Magento-Store-Code": "US",
+          "Magento-Store-View-Code": "en_us",
+          "Magento-Website-Code": "usa"
+        }
+      },
+      "commerce-assets-enabled": false,
+      "analytics": {
+        "base-currency-code": "USD",
+        "environment": "Integration",
+        "environment-id": "integration",
+        "store-code": "US",
+        "store-id": "US",
+        "store-name": "Lexmark US",
+        "store-url": "https://integration-5ojmyuq-5spgfttbivghc.us-a1.magentosite.cloud/en_us",
+        "store-view-code": "en_us",
+        "store-view-id": "en_us",
+        "store-view-name": "Lexmark US",
+        "website-code": "usa",
+        "website-id": "usa",
+        "website-name": "Lexmark USA Website"
+      },
+      "plugins": {
+        "picker": {
+          "rootCategory": "3"
+        }
+      }
+    },
+  "/en_us/": {
+      "commerce-core-endpoint": "https://integration-5ojmyuq-5spgfttbivghc.us-a1.magentosite.cloud/graphql",
+      "commerce-endpoint": "https://integration-5ojmyuq-5spgfttbivghc.us-a1.magentosite.cloud/graphql",
+      "headers": {
+        "all": {
+          "Store": "en_us"
+        },
+        "cs": {
+          "Magento-Store-Code": "US",
+          "Magento-Store-View-Code": "en_us",
+          "Magento-Website-Code": "usa"
+        }
+      },
+      "commerce-assets-enabled": false,
+      "analytics": {
+        "base-currency-code": "USD",
+        "environment": "Integration",
+        "environment-id": "integration",
+        "store-code": "US",
+        "store-id": "US",
+        "store-name": "Lexmark US",
+        "store-url": "https://integration-5ojmyuq-5spgfttbivghc.us-a1.magentosite.cloud/en_us",
+        "store-view-code": "en_us",
+        "store-view-id": "en_us",
+        "store-view-name": "Lexmark US",
+        "website-code": "usa",
+        "website-id": "usa",
+        "website-name": "Lexmark USA Website"
+      },
+      "plugins": {
+        "picker": {
+          "rootCategory": "3"
+        }
+      }
+    }
+  }
+}
