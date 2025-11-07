@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/lexmark-shmatta/aem-boilerplate-commerce/
+    url: https://content.da.live/Lexmark-shmatta/aem-boilerplate-commerce/
     type: markup
 
 folders:
